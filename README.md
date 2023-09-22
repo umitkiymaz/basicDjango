@@ -1,0 +1,2 @@
+# basicDjango
+Başlangıç Django
